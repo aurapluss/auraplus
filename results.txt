@@ -1,0 +1,13 @@
+# Nmap 7.94SVN scan initiated Mon Jan 27 23:56:34 2025 as: nmap -Pn -sV -sC -p 80,443 --script http-sql-injection,http-title -oN results.txt wsc.cdr.bsnl.co.in
+Nmap scan report for wsc.cdr.bsnl.co.in (61.1.112.237)
+Host is up (0.11s latency).
+rDNS record for 61.1.112.237: foa.cdr.bsnl.co.in
+
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     nginx
+|_http-title: Did not follow redirect to https://wsc.cdr.bsnl.co.in/
+443/tcp open  ssl/http nginx
+|_http-title:  
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jan 27 23:57:05 2025 -- 1 IP address (1 host up) scanned in 31.59 seconds

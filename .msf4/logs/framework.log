@@ -1,0 +1,6 @@
+[04/19/2025 17:35:56] [e(0)] core: Failed to connect to the database: No database YAML file
+[04/19/2025 17:36:06] [e(0)] core: Failed to open history file: /home/ezio/.msf4/history with error: No such file or directory @ rb_sysopen - /home/ezio/.msf4/history
+[04/19/2025 17:36:16] [e(0)] core: Module exploit/linux/ssh/regresshion not found, and no loading errors found. If you're using a custom module refer to our wiki: https://docs.metasploit.com/docs/using-metasploit/intermediate/running-private-modules.html
+[04/19/2025 17:39:33] [e(0)] core: Module exploit/linux/ssh/recursion not found, and no loading errors found. If you're using a custom module refer to our wiki: https://docs.metasploit.com/docs/using-metasploit/intermediate/running-private-modules.html
+[04/19/2025 17:41:46] [e(0)] core: Failed to connect to the database: No database YAML file
+[04/19/2025 17:48:44] [e(0)] core: Module exploit/linux/ssh/regression not found, and no loading errors found. If you're using a custom module refer to our wiki: https://docs.metasploit.com/docs/using-metasploit/intermediate/running-private-modules.html

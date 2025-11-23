@@ -1,0 +1,9 @@
+use exploit/linux/ssh/regresshion
+search ssh
+use exploit/linux/ssh/recursion
+msfupdate
+apt install metasploit-framework
+exit
+use exploit/linux/ssh/regression
+search regres
+search regression

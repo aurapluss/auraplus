@@ -1,0 +1,97 @@
+-------------------------------------------------------------------------------->8
+[2025-07-06T17:35:27.460000163Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-07-06T17:35:27.473609735Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/durai/.docker/contexts
+-------------------------------------------------------------------------------->8
+[2025-07-06T17:35:27.758170425Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+[2025-07-06T17:35:28.073569287Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+[2025-07-06T17:35:28.376515467Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-07-07T06:51:57.987650054Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-07-07T06:51:57.999360181Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-07-07T06:51:58.322015663Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+[2025-07-07T06:51:58.331539250Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/durai/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-07T06:51:58.679288317Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+[2025-07-07T06:51:58.691100473Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/durai/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-07T06:51:59.019039504Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-07-10T14:18:32.253891169Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-07-10T14:18:32.267627261Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-07-10T14:18:32.621614843Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+[2025-07-10T14:18:32.633962456Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/durai/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-10T14:18:33.003437097Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+[2025-07-10T14:18:33.014508746Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/durai/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-10T14:18:33.346587825Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-07-11T13:39:04.161283256Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-07-11T13:39:04.174468552Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-07-11T13:39:04.538356531Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+[2025-07-11T13:39:04.548117921Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/durai/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-11T13:39:04.983694223Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+[2025-07-11T13:39:04.995160501Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/durai/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-11T13:39:05.315136642Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-07-12T15:21:53.109891027Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-07-12T15:21:53.122458978Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-07-12T15:21:53.518093991Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+[2025-07-12T15:21:53.530924414Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/durai/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-12T15:21:53.946259495Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+[2025-07-12T15:21:53.961979145Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/durai/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-12T15:21:54.355851609Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-07-14T17:37:16.919419324Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-07-14T17:37:16.932511664Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-07-14T17:37:17.217323825Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+[2025-07-14T17:37:17.227352997Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/durai/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-14T17:37:17.533896115Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+[2025-07-14T17:37:17.543588676Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/durai/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-14T17:37:17.863539058Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-07-15T05:40:48.003480465Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-07-15T05:40:48.016746681Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-07-15T05:40:48.349317410Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+[2025-07-15T05:40:48.358281405Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/durai/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-15T05:40:48.685115039Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+[2025-07-15T05:40:48.694742407Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/durai/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-07-15T05:40:48.983543678Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-08-10T10:51:17.809964214Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-08-10T10:51:17.830565496Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-08-10T10:51:18.433645885Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+[2025-08-10T10:51:18.450825088Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/durai/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-08-10T10:51:18.994918558Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+[2025-08-10T10:51:19.011121705Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/durai/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-08-10T10:51:19.518612474Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-08-15T10:47:46.002931346Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts
+[2025-08-15T10:47:46.021597102Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/durai/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-08-15T10:47:46.527114833Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.aws, linkPath = <HOME>/.aws
+[2025-08-15T10:47:46.544179469Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/durai/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-08-15T10:47:47.105485180Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.azure, linkPath = <HOME>/.azure
+[2025-08-15T10:47:47.121130386Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/durai/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-08-15T10:47:47.637687909Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/durai/.docker/features.json, linkPath = ~/.docker/features.json
