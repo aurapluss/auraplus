@@ -1,4 +1,0 @@
-# Nmap 7.94SVN scan initiated Sat Apr 19 17:10:22 2025 as: nmap -sV -Pn -T4 --script vuln -oA browriters_scan browriters.com
-Host: 147.93.20.118 (srv753447.hstgr.cloud)	Status: Up
-Host: 147.93.20.118 (srv753447.hstgr.cloud)	Ports: 22/open/tcp//ssh//OpenSSH 9.6p1 Ubuntu 3ubuntu13.8 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.58/, 443/open/tcp//ssl|http//Apache httpd 2.4.58/, 3306/open/tcp//mysql//MySQL 8.0.41-0ubuntu0.24.04.1/	Ignored State: filtered (996)
-# Nmap done at Sat Apr 19 17:11:34 2025 -- 1 IP address (1 host up) scanned in 71.43 seconds
