@@ -198,3 +198,18 @@ lsusb
 winget install --interactive --exact dorssel.usbipd-win
 use exploit/linux/mysql/cve_2023_21980
 Metasploit
+echo "# auraplus" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git config --global user.email "duraimuruganc1999@gmail.com"
+git config --global user.name "aurapluss"
+git branch -M main
+git remote add origin https://github.com/aurapluss/auraplus.git
+git push -u origin main
+git branch
+git checkout -b main
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/aurapluss/auraplus.git
+git push -u origin main
